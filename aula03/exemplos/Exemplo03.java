@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Exemplo03 {
     
     public static void main(String[] args) {
+        
         // cria um Scanner para ler o teclado (System.in)
         Scanner entrada = new Scanner(System.in);
         int idade;
